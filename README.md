@@ -1,4 +1,4 @@
-<h1 align="center">Seja bem vindo, Me chamo Tiago!</h1>
+<h1 align="center">Seja bem vindo(a), Me chamo Tiago!</h1>
 <div align="center">
 <div >
 <a href="https://github.com/TiagoOliveiraSantos">
