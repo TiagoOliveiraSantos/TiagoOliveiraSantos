@@ -19,5 +19,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>-->
 
-![Snake animation](https://github.com/TiagoOliveiraSantos/TiagoOliveiraSantos/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/TiagoOliveiraSantos/TiagoOliveiraSantos/blob/output/github-contribution-grid-snake.svg)
 </div>
