@@ -1,5 +1,10 @@
 <h1 align="center">Olá! Eu sou Tiago Oliveira</h1>
-<h2  align="center">Pretendente a pretendente em ser um Programador 😏💻🧠✨</h2>
+<h2  align="center">Pretendente a pretendente em ser um Programador
+    &#x1F60F; <!-- 😏 -->
+    &#x1F4BB; <!-- 💻 -->
+    &#x1F9E0; <!-- 🧠 -->
+    &#x2728;  <!-- ✨ --> 
+</h2>
 <div align="center">
 <div >
 <a href="https://github.com/TiagoOliveiraSantos">
