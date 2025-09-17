@@ -5,15 +5,7 @@
     &#x1F9E0; <!-- 🧠 -->
     &#x2728;  <!-- ✨ --> 
 </h2>
-<div align="center">
-<div >
-<a href="https://github.com/TiagoOliveiraSantos">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoOliveiraSantos&layout=compact&langs_count=7&theme=dark"/>
- </div>
- <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TiagoOliveiraSantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
-</div>
+
 <br>
  <h2 align="center">Nesse momento estou estudando Python</h2>
   
